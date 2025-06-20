@@ -2,3 +2,4 @@ services:
   - type: web
     name: simple-calculator
     runtime: static
+    staticPublishPath: ./
